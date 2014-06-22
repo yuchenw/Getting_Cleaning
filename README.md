@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting and Cleaning Data Course Project: Documentation
 
 Student: Yu-Chen Wang
@@ -34,3 +35,9 @@ Please refer to the Codebook.md in the same repo to review the variable naming s
 
 Reference:
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+=======
+Getting_Cleaning
+================
+
+Getting and Cleaning Data Course Project
+>>>>>>> 5c8e9b174ccc9f7961375438009feb66f33596b4
